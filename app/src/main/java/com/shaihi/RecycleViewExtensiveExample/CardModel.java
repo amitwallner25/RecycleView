@@ -16,4 +16,5 @@ public class CardModel {
         this.text = text;
         this.image = image;
     }
+
 }
